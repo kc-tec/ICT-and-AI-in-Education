@@ -138,8 +138,7 @@
 | ៥ | **សំណួរគន្លឹះ** | ●    តើការវិវត្តបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ក្នុងការអប់រំ​មានផលជះអ្វីខ្លះ? ●    តើនិន្នាការបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ក្នុងបរិបទអប់រំថ្មីៗ​មានអ្វីខ្លះ? ●    តើឥទ្ធិពលចម្បងៗអ្វីខ្លះរបស់បច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍​លើការអប់រំក្នុងយុគ្គសម័យឌីជីថល? ●    តើអ្នកបញ្រ្ជាបឥទ្ធិពលបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ក្នុង​ការបង្រៀនដោយរបៀបណា? |
 | ៦ | **កិច្ចការស្រាវជ្រាវ** | ●    ចូរសរសេរអត្ថបទខ្លី ២-៣ ទំព័រអំពីឧបករណ៍ ICT ឬនិន្នាការ       ជាក់លាក់ដែលបានពិភាក្សាក្នុងថ្នាក់ ដោយវិភាគពីប្រវត្តិបរិបទ ឧបករណ៍ប្រើប្រាស់នាពេលបច្ចុប្បន្ន និងការអភិវឌ្ឍដែលមាន     សក្តានុពលក្នុងវិស័យអប់រំនាពេលអនាគត |
 | ៧ | **ឯកសារយោង** | ●    Bates, A. W. (2015). Teaching in a Digital Age: Guidelines for Designing Teaching and Learning for a Digital Age. Tony Bates Associates Ltd. ●    Johnson, L., Adams Becker, S., Estrada, V., & Freeman, A. (2014). NMC Horizon Report: 2014 Higher Education Edition. The New Media Consortium. ●    OBSBOT. (n.d.). ICT in education. Retrieved from https://www.obsbot.com/blog/e-classes/ict-in-education |
-
-#  
+ 
 
 # **សប្តាហ៍ទី ២៖ បច្ចេកវិទ្យាសម្រាប់ការវាយតម្លៃការសិក្សា**
 
@@ -178,7 +177,6 @@
 | ៦ | **កិច្ចការស្រាវជ្រាវ** | ●    ប្រើប្រាស់ Google Search, Bing Search ដើម្បីស្វែងរករូបភាព និងវីដេអូចេញពីវេបសាយ​ណា​មួយ និងរៀបចំបទបង្ហាញ។ ●    ប្រើប្រាស់ SaveFromNet និង Y2NB ដើម្បីទាញវីដេអូចេញពី​វេបសាយ​ណា​មួយ និងរៀបចំបទបង្ហាញ។ ●    រៀបចំបទបង្ហាញស្តីពីការប្រើប្រាស់ deepdream generator, Auto Draw ដើម្បីបង្កើតរូបភាព ●    ចូរបង្កើតផែនការមេរៀនដោយជ្រើសរើសឧបករណ៍បញ្ញាសិប្បនិម្មិតមួយ (MagicShcool AI, Education Copilot, Curipod, Diffit and LessonPlans.ai)       (បែងចែកគរុនិស្សិតជា ៤ក្រុម ធ្វើកិច្ចការទាំង៤ខាងលើ) |
 | ៧ | **ឯកសារយោង** | ●    ផាន់ កុម្ភៈ និង សោ ភក្ដី. (២០២៤). ក្រមសីលធម៌ និងការប្រើប្រាស់ធនធានលើអ៊ីនធឺណិត. វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង. ●    Autodraw. (n.d.). Retrieved from https://www.autodraw.com/ ●    Curipod. (n.d.). Retrieved from https://curipod.com/ ●    Deep Dream Generator. (n.d.). Retrieved from https://deepdreamgenerator.com/ ●    Diffit. (n.d.). Retrieved from https://app.diffit.me/ ●    Education Copilot. (n.d.). Retrieved from https://educationcopilot.com/ ●    Gencraft. (n.d.). Retrieved from https://gencraft.com/generate ●    LessonPlans.ai. (n.d.). Retrieved from https://www.lessonplans.ai/ ●    MagicSchool.AI. (n.d.). Retrieved from https://www.magicschool.ai |
 
-#  
 
 # **សប្តាហ៍ទី ៥៖ ការប្រើប្រាស់បញ្ញាសិប្បនិម្មិតសម្រាប់ការស្រាវជ្រាវ**
 
